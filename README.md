@@ -1,4 +1,4 @@
-# Ford GoBike System Dataset
+# Ford GoBike System Dataset - Project Udacity Data Analyst Nano Degree
 ![Ford bikes](/ford.png)
 ## by Carla Mota Leal
 
@@ -43,24 +43,6 @@ This data set includes information about individual rides made in a bike-sharing
 
 16- Strong correlations are observed between age and hour, as well as start_station_id and end_station_id with age. However, these correlations may not be directly relevant to the analysis conducted.
 
-These findings provide insights into user behavior, gender distribution, age demographics, and usage patterns within the bike service, which can be valuable for strategic planning, marketing campaigns, and service improvements.
+> **These findings provide insights into user behavior, gender distribution, age demographics, and usage patterns within the bike service, which can be valuable for strategic planning, marketing campaigns, and service improvements.**
 
 
-## Key Insights for Presentation
-
-Based on the key findings, two main threads that stand out are:
-
-**1. Gender Disparity in Bike Usage:**
-
-- Highlighting the significant difference in the number of male and female users.
-- Discussing the potential reasons behind this gender disparity.
-- Exploring strategies to encourage and promote bike usage among females.
-
-**2. Usage Patterns and Subscriber Loyalty:**
-
-- Analyzing the usage patterns during weekdays and peak hours.
-- Emphasizing the higher engagement and loyalty of subscribers.
-- Identifying opportunities to enhance the subscriber experience and attract more customers.
-
-**Design Changes:**
-For the presentation, I will start with bar graphs to illustrate the gender distribution, plots to showcase usage patterns over time, and proportion of subscribers and customers. Additionally, adding demographic breakdowns and heatmaps for popular stations and peak hours will provide a comprehensive understanding of the data.
