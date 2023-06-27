@@ -1,6 +1,7 @@
-# Ford GoBike System Dataset - Project Udacity Data Analyst Nano Degree
+# Ford GoBike System Dataset 
+## Project Udacity Data Analyst Nano Degree
 ![Ford bikes](/ford.png)
-## by Carla Mota Leal
+## *by Carla Mota Leal*
 
 
 ## Dataset
